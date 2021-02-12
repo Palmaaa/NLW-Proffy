@@ -25,7 +25,7 @@ function Landing() {
             <div id="page-landing-content" className="container">
                 <div className="logo-container">
                     <img src={logoImg} alt="Proffy" />
-                    <h1>Sua plataforma de estudos online.</h1>
+                    <h1>Sua plataforma de estudos online. (testando nova branch)</h1>
                 </div>
                 <img 
                     src={landingImg} 
